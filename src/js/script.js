@@ -1,3 +1,8 @@
 {
-  console.log(`started`);
+  const init = () => {
+    console.log(`hello world`);
+    
+  };
+
+  init();
 }

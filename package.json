@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Oefening 2",
   "main": "index.js",
-  "author": "Benoît Boucart",
+  "author": "Thijs Bremeesch",
   "license": "MIT",
   "scripts": {
     "production": "webpack --mode production",
